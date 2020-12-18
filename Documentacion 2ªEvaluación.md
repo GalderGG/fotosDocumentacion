@@ -16,7 +16,7 @@ Es un servicio web de AWS que proporciona capacidad informática en la nube de f
 
 APACHE:<br>
 ![](https://github.com/GalderGG/fotosDocumentacion/blob/master/29.png?raw=true)<br>
-![](https://github.com/GalderGG/fotosDocumentacion/blob/master/21.png?raw=true)
+![](https://github.com/GalderGG/fotosDocumentacion/blob/master/35.png?raw=true)
 
 MYSQL:<br>
 ![](https://github.com/GalderGG/fotosDocumentacion/blob/master/24.png?raw=true)
