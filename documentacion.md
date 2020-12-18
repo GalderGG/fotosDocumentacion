@@ -16,6 +16,7 @@ Es un servicio web que proporciona capacidad informática en la nube de forma se
 
 APACHE:<br>
 ![](https://github.com/GalderGG/fotosDocumentacion/blob/master/21.png?raw=true)
+![](https://github.com/GalderGG/fotosDocumentacion/blob/master/29.png?raw=true)
 
 MYSQL:<br>
 ![](https://github.com/GalderGG/fotosDocumentacion/blob/master/27.png?raw=true)
