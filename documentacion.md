@@ -1,8 +1,8 @@
-# EC2 AWS Y DNS
+# Documentación 2ª evaluación
 
 **¿Qué es y para qué sirve EC2?**
 
-Es un servicio web que proporciona capacidad informática en la nube de forma segura y de tamaño modificable.
+Es un servicio web de amazon que proporciona capacidad informática en la nube de forma segura y de tamaño modificable.
 
 **Imagen de cómo está creada la instancia y cómo has accedido a ella mediante un cliente ssh**
 
@@ -15,11 +15,11 @@ Es un servicio web que proporciona capacidad informática en la nube de forma se
 **Imagen del estado de cada aplicación lanzada. En el caso de apache2, comprobación de apche lanzado en el navegador**
 
 APACHE:<br>
+![](https://github.com/GalderGG/fotosDocumentacion/blob/master/29.png?raw=true)<br>
 ![](https://github.com/GalderGG/fotosDocumentacion/blob/master/21.png?raw=true)
-![](https://github.com/GalderGG/fotosDocumentacion/blob/master/29.png?raw=true)
 
 MYSQL:<br>
-![](https://github.com/GalderGG/fotosDocumentacion/blob/master/27.png?raw=true)
+![](https://github.com/GalderGG/fotosDocumentacion/blob/master/24.png?raw=true)
 
 PHP:<br>
 ![](https://github.com/GalderGG/fotosDocumentacion/blob/master/26.png?raw=true)
@@ -29,7 +29,15 @@ FTP:<br>
 
 <hr>
 
-**Imagen de cómo has asociado la IP elástica a tu instancia**
+**¿Qué es y para qué sirve una IP Elástica?**
+Una dirección IP elástica es una dirección IP estatica pública y sirve para acceder
+
+**Imagen de cómo has asociado la IP elástica a tu instancia**<br>
+Lo primero tenemos que hacer es asignarnos un IP<br>
+![](https://github.com/GalderGG/fotosDocumentacion/blob/master/31.png?raw=true)
+
+Una vez que tenemos la IP elastica asignada tenemos que asociarla con la instancia<br>
+![](https://github.com/GalderGG/fotosDocumentacion/blob/master/33.png?raw=true)
 
 <hr>
 
