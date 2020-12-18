@@ -2,7 +2,7 @@
 
 **¿Qué es y para qué sirve EC2?**
 
-Es un servicio web de amazon que proporciona capacidad informática en la nube de forma segura y de tamaño modificable.
+Es un servicio web de AWS que proporciona capacidad informática en la nube de forma segura.
 
 **Imagen de cómo está creada la instancia y cómo has accedido a ella mediante un cliente ssh**
 
@@ -43,9 +43,16 @@ Una vez que tenemos la IP elastica asignada tenemos que asociarla con la instanc
 
 **¿Qué es y para qué sirve el DNS?**
 
-**Indica cuales son y para qué se usan los diferentes tipos de registros DNS**
+**Indica cuales son y para qué se usan los diferentes tipos de registros DNS** <br>
 
 **Imagen de los registros DNS de tu sitio en Guebs y explicación de los registros de tu dominio**
+![](https://github.com/GalderGG/fotosDocumentacion/blob/master/34.png?raw=true)
+
+1.-
+
+2.-
+
+3.-
 
 <hr>
 
