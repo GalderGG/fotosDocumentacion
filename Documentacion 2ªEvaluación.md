@@ -39,7 +39,7 @@ FTP:<br>
 Una dirección IP elástica es una dirección IP estatica pública y sirve para tener acceso desde Internet.
 
 **Imagen de cómo has asociado la IP elástica a tu instancia**<br>
-Lo primero tenemos que hacer es asignarnos un IP<br>
+Lo primero tenemos que hacer es asignarnos un IP elastica<br>
 ![](https://github.com/GalderGG/fotosDocumentacion/blob/master/31.png?raw=true)
 
 Una vez que tenemos la IP elastica asignada tenemos que asociarla con la instancia<br>
