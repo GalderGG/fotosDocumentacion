@@ -119,11 +119,11 @@ Porque de esa manera solo funcionaria en nuestro equipo y nos interesa que funci
 
 3.- En caso de que no lo tenga preguntara hasta que lo encuentre o llegue al servidor root.
 
-4.- El servidor root le respondera con con la dirección IP del dominio superior.org.
+4.- El servidor root le respondera con con la dirección IP del dominio superior .org.
 
-5.- Ahora que el DNS Primario tiene la dirección IP del dominio superior.org hara la peticion.
+5.- Ahora que el DNS Primario tiene la dirección IP hara la peticion a debian.org.
 
-6.- Y por ultimo el DNS Primario nos respondera con la IP solicitada.
+6.- Por ultimo el DNS Primario nos respondera con la IP solicitada.
 
 **¿Es posible si dispones de una conexión a Internet con IP dinámica ofrecer servicios en Internet? Es decir, si quieres ofrecer los servicios SND, no dispones de IP estática, esto es, cada vez que te conectas a Internet tu IP, aunque a veces sea la misma, no siempre es la misma.**
 
